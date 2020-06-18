@@ -13,7 +13,7 @@ body {
     background-size: cover;
     /* Pick a solid background color that will be displayed while the background image is loading */
     background-color: lightgrey;
-
+   
 }
 
 /* For mobile devices */
@@ -21,6 +21,6 @@ body {
     body {
         /* The file size of this background image is 93% smaller
              * to improve page load speed on mobile internet connections */
-
+       
     }
 }
