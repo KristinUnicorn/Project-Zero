@@ -1,0 +1,20 @@
+$myHeader: Arial, Helvetica, sans-serif;
+$myText: Lucida Calligraphy;
+$myColor: darkslategrey;
+
+div
+{
+    h1
+    {
+        font-family:$myHeader;
+        color: $myColor
+    }
+
+    p
+    {
+        font-family: $myText;
+        color: black;
+        font-size: medium;
+        font-style: italic;
+    }
+}
